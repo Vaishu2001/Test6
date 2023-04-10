@@ -1,9 +1,3 @@
 creating one more file
 Hii
-<<<<<<< HEAD
 
-
-
-=======
-im adding feature line
->>>>>>> feature
