@@ -1,4 +1,8 @@
 creating one more file
 Hii
+<<<<<<< HEAD
+
+=======
 im adding feature line
 dfddd
+>>>>>>> feature
